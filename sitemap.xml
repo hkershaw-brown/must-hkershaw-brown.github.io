@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://must-tutorial.com/howto/</loc>
-    <lastmod>2020-07-13T20:33:24-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://must-tutorial.com/</loc>
     <lastmod>2020-07-13T20:33:24-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://must-tutorial.com/docs/</loc>
+    <lastmod>2020-07-13T20:33:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://must-tutorial.com/howto/</loc>
     <lastmod>2020-07-13T20:33:24-04:00</lastmod>
   </url>
   

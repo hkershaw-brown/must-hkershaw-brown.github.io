@@ -12,22 +12,22 @@
     
     
     <item>
-      <title>How to - using jupyter hub</title>
-      <link>https://must-tutorial.com/howto/</link>
-      <pubDate>Mon, 13 Jul 2020 20:33:24 -0400</pubDate>
-      
-      <guid>https://must-tutorial.com/howto/</guid>
-      <description>The hub has MuST and ASE installed. Each user gets their own jupyter notebook environment on the hub.
-First time logging in:  Click on &amp;ldquo;hub&amp;rdquo; to connect to the jupyter hub. Enter your username  Choose a password (remember this password for future logins!) Click &amp;lsquo;Sign In&amp;rsquo; Wait for your server to start  Jupyter hub basics Once your server is up and running, you will see your dashboard</description>
-    </item>
-    
-    <item>
       <title>Useful Documentation</title>
       <link>https://must-tutorial.com/docs/</link>
       <pubDate>Mon, 13 Jul 2020 20:33:24 -0400</pubDate>
       
       <guid>https://must-tutorial.com/docs/</guid>
       <description>Jupyter Notebooks Python MuST ASE ASE calulcator for MuST by Amish Chovatiyas </description>
+    </item>
+    
+    <item>
+      <title>Using jupyter hub</title>
+      <link>https://must-tutorial.com/howto/</link>
+      <pubDate>Mon, 13 Jul 2020 20:33:24 -0400</pubDate>
+      
+      <guid>https://must-tutorial.com/howto/</guid>
+      <description>The hub has MuST and ASE installed. Each user gets their own jupyter notebook environment on the hub.
+First time logging in:  Click on &amp;ldquo;hub&amp;rdquo; to connect to the jupyter hub. Enter your username  Choose a password (remember this password for future logins!) Click &amp;lsquo;Sign In&amp;rsquo; Wait for your server to start  Jupyter hub basics Once your server is up and running, you will see your dashboard</description>
     </item>
     
     <item>
