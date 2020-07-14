@@ -13,13 +13,21 @@
     
     <item>
       <title>How to - using jupyter hub</title>
+      <link>https://must-tutorial.com/howto/</link>
+      <pubDate>Mon, 13 Jul 2020 20:33:24 -0400</pubDate>
+      
+      <guid>https://must-tutorial.com/howto/</guid>
+      <description>The hub has MuST and ASE installed. Each user gets their own jupyter notebook environment on the hub.
+First time logging in:  Click on &amp;ldquo;hub&amp;rdquo; to connect to the jupyter hub. Enter your username  Choose a password (remember this password for future logins!) Click &amp;lsquo;Sign In&amp;rsquo; Wait for your server to start  Jupyter hub basics Once your server is up and running, you will see your dashboard</description>
+    </item>
+    
+    <item>
+      <title>Useful Documentation</title>
       <link>https://must-tutorial.com/docs/</link>
       <pubDate>Mon, 13 Jul 2020 20:33:24 -0400</pubDate>
       
       <guid>https://must-tutorial.com/docs/</guid>
-      <description>The hub has MuST and ASE installed. Each user gets their own jupyter notebook environment on the hub.
-First time logging in:  Click on &amp;ldquo;hub&amp;rdquo; to connect to the jupyter hub. Enter your username Choose a password (remember this password for future logins!) Click login Wait for your server to start  Jupyter hub basics Once you log into the hub you will see
-Cloning the workshop exercises: Opening a terminal: Here are some useful documentation links:</description>
+      <description>Jupyter Notebooks Python MuST ASE ASE calulcator for MuST by Amish Chovatiyas </description>
     </item>
     
     <item>
@@ -29,7 +37,7 @@ Cloning the workshop exercises: Opening a terminal: Here are some useful documen
       
       <guid>https://must-tutorial.com/about/</guid>
       <description>This project was created for a MuST workshop at LSU. The Jupyter Hub runs on Jetstream - the NSF cloud.
-The image used to run the hub is ubunutu 18.04 with MuST, ASE and all their dependenies installed</description>
+The image used to run the hub is ubunutu 18.04 with MuST, ASE and all their dependenies installed.</description>
     </item>
     
   </channel>
