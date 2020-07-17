@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.must-tutorial.com/howto/first_log/</loc>
+    <lastmod>2020-07-13T20:33:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.must-tutorial.com/howto/cloning/</loc>
+    <lastmod>2020-07-15T20:33:24-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.must-tutorial.com/howto/</loc>
+    <lastmod>2020-07-15T20:33:24-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.must-tutorial.com/</loc>
     <lastmod>2020-07-13T20:33:24-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.must-tutorial.com/docs/</loc>
-    <lastmod>2020-07-13T20:33:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.must-tutorial.com/howto/</loc>
     <lastmod>2020-07-13T20:33:24-04:00</lastmod>
   </url>
   

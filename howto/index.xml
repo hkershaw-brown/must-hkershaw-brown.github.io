@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MuST Tutorial</title>
-    <link>https://www.must-tutorial.com/</link>
-    <description>Recent content on MuST Tutorial</description>
+    <title>How To on MuST Tutorial</title>
+    <link>https://www.must-tutorial.com/howto/</link>
+    <description>Recent content in How To on MuST Tutorial</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 20:33:24 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 20:33:24 -0400</lastBuildDate>
     
-	<atom:link href="https://www.must-tutorial.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.must-tutorial.com/howto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,25 +30,6 @@ First time logging in:  Click on &amp;ldquo;hub&amp;rdquo; to connect to the jup
       <description>Cloning a git repository
 Open a terminal
 git clone </description>
-    </item>
-    
-    <item>
-      <title>Useful Documentation</title>
-      <link>https://www.must-tutorial.com/docs/</link>
-      <pubDate>Mon, 13 Jul 2020 20:33:24 -0400</pubDate>
-      
-      <guid>https://www.must-tutorial.com/docs/</guid>
-      <description>Jupyter Notebooks Python MuST ASE ASE calulcator for MuST by Amish Chovatiyas </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.must-tutorial.com/about/</link>
-      <pubDate>Mon, 13 Jul 2020 20:29:15 -0400</pubDate>
-      
-      <guid>https://www.must-tutorial.com/about/</guid>
-      <description>This project was created for a MuST workshop at LSU. The Jupyter Hub runs on Jetstream - the NSF cloud.
-The image used to run the hub is ubunutu 18.04 with MuST, ASE and all their dependenies installed.</description>
     </item>
     
   </channel>
