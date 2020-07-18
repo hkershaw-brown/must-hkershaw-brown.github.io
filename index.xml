@@ -18,8 +18,8 @@
       
       <guid>https://www.must-tutorial.com/howto/first_log/</guid>
       <description>The hub has MuST and ASE installed. Each user gets their own jupyter notebook environment on the hub.
- Click on &amp;ldquo;hub&amp;rdquo; to connect to the jupyter hub. Enter your username  Choose a password (remember this password for future logins!) Click &amp;lsquo;Sign In&amp;rsquo; Wait for your server to start  Jupyter hub basics Once your server is up and running, you will see your dashboard
-You can open a new terminal, or create a new notebook by clicking on &amp;ldquo;New&amp;rdquo;</description>
+ Click on &amp;ldquo;hub&amp;rdquo; to connect to the jupyter hub. Enter your username  Choose a password (remember this password for future logins!) Click &amp;lsquo;Sign In&amp;rsquo; Wait for your server to start  While your server is starting, you will see the following message:
+Jupyter hub basics Once your server is up and running, you will see your dashboard</description>
     </item>
     
     <item>
