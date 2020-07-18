@@ -17,9 +17,8 @@
       <pubDate>Mon, 13 Jul 2020 20:33:24 -0400</pubDate>
       
       <guid>https://www.must-tutorial.com/howto/first_log/</guid>
-      <description>The hub has MuST and ASE installed. Each user gets their own jupyter notebook environment on the hub.
- Click on &amp;ldquo;hub&amp;rdquo; to connect to the jupyter hub. Enter your username  Choose a password (remember this password for future logins!) Click &amp;lsquo;Sign In&amp;rsquo; Wait for your server to start  While your server is starting, you will see the following message:
-Jupyter hub basics Once your server is up and running, you will see your dashboard</description>
+      <description>The hub has MuST and ASE installed. Each user gets their own Jupyter Notebook environment on the hub.
+ Click on &amp;ldquo;Hub&amp;rdquo; to connect to the JupyterHub. The login page will open in a new tab. Enter your username  Choose a password (remember this password for future logins!) Click &amp;lsquo;Sign In&amp;rsquo; Wait for your server to start  While your server is starting, you will see the following message:</description>
     </item>
     
     <item>
@@ -29,10 +28,21 @@ Jupyter hub basics Once your server is up and running, you will see your dashboa
       
       <guid>https://www.must-tutorial.com/howto/cloning/</guid>
       <description>Open a terminal by clicking on New -&amp;gt; Terminal
-your terminal will open in a new tab. To clone a git repository, use git clone followed by the address of the repository. You can clone an example MuST notebook using the following command
+your terminal will open in a new tab. To clone a git repository, use git clone followed by the address of the repository. You can clone an example MuST notebook using the following command:
 git clone https://github.com/hkershaw-brown/example_notebook.git Cloning the repository successfully will look like this:
-On your Jupyter Hub page you will now the the example notebook folder.
+On your JupyterHub page you will now the the example notebook folder.
 Clicking on example notebook will take you into the example notebook direcory, where you will see example_must_ase.</description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://www.must-tutorial.com/howto/restarting/</link>
+      <pubDate>Sat, 18 Jul 2020 14:41:53 -0400</pubDate>
+      
+      <guid>https://www.must-tutorial.com/howto/restarting/</guid>
+      <description>Clicking on Control Panel will take you to the following page
+You can stop your server, then start your server again
+To get back to your sever from this page click My Server</description>
     </item>
     
     <item>
@@ -41,7 +51,8 @@ Clicking on example notebook will take you into the example notebook direcory, w
       <pubDate>Mon, 13 Jul 2020 20:33:24 -0400</pubDate>
       
       <guid>https://www.must-tutorial.com/docs/</guid>
-      <description>Jupyter Notebooks Python MuST ASE ASE calulcator for MuST by Amish Chovatiyas </description>
+      <description>Here are some external links that you may find helpful:
+ASE calulcator for MuST by Amish Chovatiyas Jupyter Notebooks Python MuST ASE </description>
     </item>
     
     <item>
@@ -50,8 +61,7 @@ Clicking on example notebook will take you into the example notebook direcory, w
       <pubDate>Mon, 13 Jul 2020 20:29:15 -0400</pubDate>
       
       <guid>https://www.must-tutorial.com/about/</guid>
-      <description>This project was created for a MuST workshop at LSU. The Jupyter Hub runs on Jetstream - the NSF cloud.
-The image used to run the hub is ubunutu 18.04 with MuST, ASE and all their dependenies installed.</description>
+      <description>This project was created for a MuST workshop at LSU. The JupyterHub runs on Jetstream - the NSF cloud. The MuST JupyterHub project was part of the XSEDE Campus Champions Fellows Program The image used to run the hub is ubunutu 18.04 with MuST, ASE and all their dependencies installed.</description>
     </item>
     
   </channel>
