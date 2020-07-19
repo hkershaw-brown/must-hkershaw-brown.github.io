@@ -31,7 +31,7 @@
 your terminal will open in a new tab. To clone a git repository, use git clone followed by the address of the repository. You can clone an example MuST notebook using the following command:
 git clone https://github.com/hkershaw-brown/example_notebook.git Cloning the repository successfully will look like this:
 On your JupyterHub page you will now the the example notebook folder.
-Clicking on example notebook will take you into the example notebook direcory, where you will see example_must_ase.</description>
+Clicking on example notebook will take you into the example notebook directory, where you will see example_must_ase.</description>
     </item>
     
     <item>
@@ -52,7 +52,7 @@ To get back to your sever from this page click My Server</description>
       
       <guid>https://www.must-tutorial.com/docs/</guid>
       <description>Here are some external links that you may find helpful:
-ASE calulcator for MuST by Amish Chovatiyas Jupyter Notebooks Python MuST ASE </description>
+ASE calculator for MuST by Amish Chovatiya Jupyter Notebooks Python MuST ASE </description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@ ASE calulcator for MuST by Amish Chovatiyas Jupyter Notebooks Python MuST ASE </
       <pubDate>Mon, 13 Jul 2020 20:29:15 -0400</pubDate>
       
       <guid>https://www.must-tutorial.com/about/</guid>
-      <description>This project was created for a MuST workshop at LSU. The JupyterHub runs on Jetstream - the NSF cloud. The MuST JupyterHub project was part of the XSEDE Campus Champions Fellows Program The image used to run the hub is ubunutu 18.04 with MuST, ASE and all their dependencies installed.</description>
+      <description>This project was created for a MuST workshop at LSU. The JupyterHub runs on Jetstream - the NSF cloud. The MuST JupyterHub project was part of the XSEDE Campus Champions Fellows Program The image used to run the hub is Ubuntu 18.04 with MuST, ASE and all their dependencies installed.</description>
     </item>
     
   </channel>
