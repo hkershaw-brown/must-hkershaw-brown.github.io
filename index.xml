@@ -61,7 +61,7 @@ ASE calculator for MuST by Amish Chovatiya Jupyter Notebooks Python MuST ASE </d
       <pubDate>Mon, 13 Jul 2020 20:29:15 -0400</pubDate>
       
       <guid>https://www.must-tutorial.com/about/</guid>
-      <description>This project was created for a MuST workshop at LSU. The JupyterHub runs on Jetstream - the NSF cloud. The MuST JupyterHub project was part of the XSEDE Campus Champions Fellows Program The image used to run the hub is Ubuntu 18.04 with MuST, ASE and all their dependencies installed.</description>
+      <description>This project was created for a MuST workshop at LSU. The JupyterHub runs on Jetstream - the NSF cloud. The MuST JupyterHub project was part of the XSEDE Campus Champions Fellows Program The image used to run the hub is Ubuntu 18.04 with MuST, ASE and their dependencies, together with the ASE calculator for MuST by Amish Chovatiya.</description>
     </item>
     
   </channel>
