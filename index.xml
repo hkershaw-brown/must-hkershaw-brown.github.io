@@ -22,6 +22,18 @@
     </item>
     
     <item>
+      <title>Running the MuST tutorial example</title>
+      <link>https://www.must-tutorial.com/howto/run_mst2_terminal/</link>
+      <pubDate>Mon, 20 Jul 2020 17:47:14 -0400</pubDate>
+      
+      <guid>https://www.must-tutorial.com/howto/run_mst2_terminal/</guid>
+      <description>Here is a short video showing how to use MuST on the command line for the tutorial examples :w   You can copy the tutorial examples to your home folder using
+cp -r /srv/Tutorials ~/ Alternatively, the tutorial examples are available as part of the MuST repository on GitHub.
+To clone the whole MuST repository:
+git clone https://github.com/mstsuite/MuST.git The tutorial directory is in Tutorials/CuZn</description>
+    </item>
+    
+    <item>
       <title>Cloning a git repository</title>
       <link>https://www.must-tutorial.com/howto/cloning/</link>
       <pubDate>Wed, 15 Jul 2020 20:33:24 -0400</pubDate>
